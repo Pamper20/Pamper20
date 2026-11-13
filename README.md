@@ -4,13 +4,13 @@
   <p>Desarrollo aplicaciones web modernas y soluciones basadas en datos, combinando arquitectura limpia, despliegue en la nube y pensamiento analítico.</p>
 
   <p>
-    <a href="[TU_ENLACE_LINKEDIN]" target="_blank">
+    <a href="https://www.linkedin.com/in/alejandro-huafer/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:[TU_CORREO_PROFESIONAL]">
+    <a href="mailto:pamper20@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="[TU_PORTAFOLIO_NETLIFY]" target="_blank">
+    <a href="https://app.netlify.com/teams/pamper20/projects" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
