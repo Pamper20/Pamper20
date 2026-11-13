@@ -47,9 +47,3 @@
 * **📊 [ManagerTI](https://github.com/Pamper20/ManagerTI):** Sistema ERP web para gestión de inventario, tickets de soporte y recepción de órdenes de compra con Node.js y Firestore.
 * **🚀 [NASA Space Explorer](https://github.com/Pamper20/spaceapp-nasa):** Aplicación web interactiva que consume las APIs oficiales de la NASA para visualizar datos y recursos multimedia en tiempo real.
 * **🎁 [Amigo Secreto](https://github.com/Pamper20/Challenge_Amigo_Secreto):** Herramienta web en JavaScript puro para la gestión de participantes y sorteos aleatorios sin repetición.
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pamper20&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pamper20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
