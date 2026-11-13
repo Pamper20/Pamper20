@@ -1,5 +1,5 @@
  <div align="center">
-  <h1>Hola, soy [Tu Nombre] 👋</h1>
+  <h1>Hola, soy Alejandro Huaman F. 👋</h1>
   <h3>Software Developer | Data & Risk Analytics Specialist</h3>
   <p>Desarrollo aplicaciones web modernas y soluciones basadas en datos, combinando arquitectura limpia, despliegue en la nube y pensamiento analítico.</p>
 
